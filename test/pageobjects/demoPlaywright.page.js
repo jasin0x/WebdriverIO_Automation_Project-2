@@ -45,7 +45,7 @@ class demoPlaywright {
         }
     }
 
-    //
+    //wanted to mark task complete dynamicaly from an array which contains the name of the task are supposed to be done. 
     async markTaskComplete(completeTask){
         // for(let i=0; i<this.allTasks.length; i++){
         //     for(let j=0; j<completeTask.length;j++){
